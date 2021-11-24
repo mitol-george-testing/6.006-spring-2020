@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: null
+file_location: /coursemedia/6-006-introduction-to-algorithms-spring-2020/8c17de3f613658b2b19081ee7fa8621b_IBfWDYSffUU.vtt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 8c17de3f-6136-58b2-b190-81ee7fa8621b
+---
